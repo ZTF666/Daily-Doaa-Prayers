@@ -73,6 +73,7 @@ You can upload the json-server to heroku and change the ENDPOINT in the files fr
 # Notice
 
  <p>Since the api is hosted using free dynos on heroku , whenever it's 20th of a month or something around that date they tend to run out and it won't be accessible , so think about  hosting your own . This one is just for show and proof of concept.</p>
+ 
 # Contact
 
 <div align="center">
